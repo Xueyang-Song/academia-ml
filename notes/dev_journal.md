@@ -13,3 +13,5 @@ Started as a rough Electron experiment for making ML less scary for lab research
 - 2023-06-24 `save messages maybe`: kept pushing on chat, shell, and first local python runner.
 
 - 2023-06-25 `window size fix`: kept pushing on chat, shell, and first local python runner.
+
+- 2023-07-01 `rough data notes`: kept pushing on chat, shell, and first local python runner.
