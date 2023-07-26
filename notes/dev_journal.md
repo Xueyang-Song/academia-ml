@@ -25,3 +25,5 @@ Started as a rough Electron experiment for making ML less scary for lab research
 - 2023-07-11 `python run test`: kept pushing on chat, shell, and first local python runner.
 
 - 2023-07-13 `markdown pane start`: kept pushing on chat, shell, and first local python runner.
+
+- 2023-07-25 `save messages maybe`: kept pushing on chat, shell, and first local python runner.
