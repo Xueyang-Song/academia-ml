@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-electron/
+release/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+coverage/
+playwright-report/
+test-results/
+__pycache__/
+.pytest_cache/
+*.pyc
+.academiaml/runtime/
