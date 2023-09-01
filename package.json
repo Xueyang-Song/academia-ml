@@ -1,1 +1,79 @@
-{"scripts":{"dev":"vite","build":"tsc && vite build"},"dependencies":{"@vitejs/plugin-react":"latest","vite":"latest","typescript":"latest","react":"latest","react-dom":"latest","electron":"latest"},"devDependencies":{}}
+{
+  "name": "academiaml",
+  "productName": "AcademiaML",
+  "private": true,
+  "version": "1.6.0",
+  "description": "Notebook-first desktop research tool for tabular ML workflows.",
+  "author": "Melody Song <songxueyang94@gmail.com>",
+  "main": "dist-electron/electron/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:renderer": "vite",
+    "dev:main": "tsc -p tsconfig.electron.json --watch --preserveWatchOutput",
+    "dev:electron": "nodemon --watch dist-electron --ext js,mjs,cjs --exec \"electron .\"",
+    "build": "npm run build:main && npm run build:renderer",
+    "build:renderer": "vite build",
+    "build:main": "tsc -p tsconfig.electron.json",
+    "preview": "vite preview",
+    "pack": "npm run build && electron-builder --dir"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "^0.3.0",
+    "@jupyterlab/services": "^7.5.7",
+    "@monaco-editor/react": "^4.7.0",
+    "clsx": "^2.1.1",
+    "katex": "^0.16.45",
+    "lucide-react": "^0.552.0",
+    "monaco-editor": "^0.55.1",
+    "papaparse": "^5.5.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-markdown": "^10.1.0",
+    "react-resizable-panels": "^3.0.6",
+    "rehype-highlight": "^7.0.2",
+    "rehype-katex": "^7.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-math": "^6.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/papaparse": "^5.3.16",
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^5.0.4",
+    "autoprefixer": "^10.4.21",
+    "concurrently": "^9.2.1",
+    "electron": "^42.0.0",
+    "electron-builder": "^26.0.12",
+    "nodemon": "^3.1.10",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.7",
+    "wait-on": "^9.0.2"
+  },
+  "build": {
+    "appId": "com.melodysong.academiaml",
+    "productName": "AcademiaML",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "dist-electron/**/*",
+      "examples/**/*",
+      "docs/**/*",
+      "notes/**/*",
+      "prompts/**/*",
+      "python_templates/**/*",
+      "scripts/**/*",
+      "package.json"
+    ],
+    "asar": true,
+    "asarUnpack": [
+      "scripts/**/*",
+      "python_templates/**/*"
+    ]
+  }
+}
