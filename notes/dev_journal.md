@@ -51,3 +51,5 @@ Started as a rough Electron experiment for making ML less scary for lab research
 - 2023-09-02 `first electron try`: kept pushing on chat, shell, and first local python runner.
 
 - 2023-09-10 `api key form now`: kept pushing on chat, shell, and first local python runner.
+
+- 2023-09-16 `chat box thing`: kept pushing on chat, shell, and first local python runner.
