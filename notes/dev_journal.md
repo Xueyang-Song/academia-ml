@@ -111,3 +111,5 @@ Started as a rough Electron experiment for making ML less scary for lab research
 - 2023-12-28 `window size fix`: kept pushing on chat, shell, and first local python runner.
 
 - 2023-12-30 `rough data notes`: kept pushing on chat, shell, and first local python runner.
+
+- 2023-12-31 `first electron try`: kept pushing on chat, shell, and first local python runner.
