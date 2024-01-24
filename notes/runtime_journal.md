@@ -13,3 +13,5 @@ The runtime needs to stay local. First versions just call Python directly and ho
 - 2024-01-14 `example cleanup`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-01-18 `more ml prompts`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-01-23 `project folders start`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
