@@ -1,0 +1,29 @@
+[
+  {
+    "id": "ionic-conductivity-regression",
+    "title": "Ionic Conductivity Regression",
+    "description": "Small materials-screening dataset for predicting ionic conductivity from composition and processing descriptors.",
+    "notebookPath": "notebooks/analysis.ipynb",
+    "datasetPath": "data/raw/ionic_conductivity_screen.csv",
+    "targetColumn": "ionic_conductivity_ms_cm",
+    "taskHint": "regression"
+  },
+  {
+    "id": "corrosion-passfail-classifier",
+    "title": "Corrosion Pass/Fail Classifier",
+    "description": "Binary outcome example for classifying whether a coated alloy sample passes corrosion screening.",
+    "notebookPath": "notebooks/analysis.ipynb",
+    "datasetPath": "data/raw/corrosion_screen.csv",
+    "targetColumn": "pass_fail",
+    "taskHint": "classification"
+  },
+  {
+    "id": "photoanode-efficiency-regression",
+    "title": "Photoanode Efficiency Regression",
+    "description": "Tabular lab notebook snapshot for predicting photoanode efficiency from annealing and composition choices.",
+    "notebookPath": "notebooks/analysis.ipynb",
+    "datasetPath": "data/raw/photoanode_efficiency.csv",
+    "targetColumn": "efficiency_pct",
+    "taskHint": "regression"
+  }
+]

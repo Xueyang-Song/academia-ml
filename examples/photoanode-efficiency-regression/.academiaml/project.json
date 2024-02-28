@@ -1,0 +1,14 @@
+{
+  "id": "photoanode-efficiency-regression",
+  "title": "Photoanode Efficiency Regression",
+  "createdAt": "2026-05-01T02:12:00.000Z",
+  "updatedAt": "2026-05-01T02:12:00.000Z",
+  "description": "Example project for classical regression on a small photoanode screening table.",
+  "datasetPath": "data/raw/photoanode_efficiency.csv",
+  "notebookPath": "notebooks/analysis.ipynb",
+  "taskHint": "regression",
+  "targetColumn": "efficiency_pct",
+  "copilotConfig": {
+    "model": "gpt-4.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ionic-conductivity-regression",
+  "title": "Ionic Conductivity Regression",
+  "createdAt": "2026-05-01T02:12:00.000Z",
+  "updatedAt": "2026-05-01T02:12:00.000Z",
+  "description": "Example project for choosing and running a classical regression pipeline on a small materials dataset.",
+  "datasetPath": "data/raw/ionic_conductivity_screen.csv",
+  "notebookPath": "notebooks/analysis.ipynb",
+  "taskHint": "regression",
+  "targetColumn": "ionic_conductivity_ms_cm",
+  "copilotConfig": {
+    "model": "gpt-4.1"
+  }
+}

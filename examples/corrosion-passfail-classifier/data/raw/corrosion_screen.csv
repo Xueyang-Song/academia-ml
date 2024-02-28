@@ -1,0 +1,11 @@
+sample_id,coating_thickness_nm,ph,chloride_ppm,temperature_c,roughness_ra,contact_angle_deg,pass_fail
+CR-01,12,6.8,120,35,0.42,76,pass
+CR-02,8,5.9,300,45,0.63,68,fail
+CR-03,15,7.2,80,30,0.35,82,pass
+CR-04,6,5.5,420,50,0.71,61,fail
+CR-05,11,6.6,180,37,0.47,73,pass
+CR-06,7,5.8,360,46,0.69,65,fail
+CR-07,14,7.0,110,34,0.39,80,pass
+CR-08,9,6.1,250,42,0.56,70,fail
+CR-09,13,6.9,140,36,0.44,77,pass
+CR-10,5,5.3,500,55,0.76,58,fail

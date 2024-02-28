@@ -1,0 +1,14 @@
+{
+  "id": "corrosion-passfail-classifier",
+  "title": "Corrosion Pass/Fail Classifier",
+  "createdAt": "2026-05-01T02:12:00.000Z",
+  "updatedAt": "2026-05-01T02:12:00.000Z",
+  "description": "Example project for binary materials-screening classification.",
+  "datasetPath": "data/raw/corrosion_screen.csv",
+  "notebookPath": "notebooks/analysis.ipynb",
+  "taskHint": "classification",
+  "targetColumn": "pass_fail",
+  "copilotConfig": {
+    "model": "gpt-4.1"
+  }
+}

@@ -1,6 +1,8 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-jupyter
+jupyter_server>=2.17.0
+ipykernel>=6.29.5
+nbformat>=5.10.4
+pandas>=2.2.3
+numpy>=2.1.3
+scikit-learn>=1.7.1
+matplotlib>=3.10.6
+seaborn>=0.13.2
