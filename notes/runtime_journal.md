@@ -41,3 +41,5 @@ The runtime needs to stay local. First versions just call Python directly and ho
 - 2024-03-03 `kernel wiring try`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-03-05 `save notebook state`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-03-07 `logs panel work`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
