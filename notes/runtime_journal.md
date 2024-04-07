@@ -53,3 +53,5 @@ The runtime needs to stay local. First versions just call Python directly and ho
 - 2024-03-30 `project folders start`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-04-02 `dataset preview pass`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-04-06 `schema notes`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
