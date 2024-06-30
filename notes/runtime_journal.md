@@ -101,3 +101,5 @@ The runtime needs to stay local. First versions just call Python directly and ho
 - 2024-06-18 `venv bootstrap`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-06-22 `example cleanup`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-06-29 `more ml prompts`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
