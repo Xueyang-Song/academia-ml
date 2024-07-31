@@ -117,3 +117,5 @@ The runtime needs to stay local. First versions just call Python directly and ho
 - 2024-07-23 `logs panel work`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-07-27 `venv bootstrap`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-07-30 `example cleanup`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
