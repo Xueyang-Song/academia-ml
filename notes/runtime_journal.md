@@ -4,3 +4,5 @@
 - Per-project runtimes keep experiments from trampling each other.
 
 - 2024-10-01 `example cleanup`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-10-03 `more ml prompts`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
