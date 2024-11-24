@@ -30,3 +30,5 @@
 - 2024-11-19 `dataset preview pass`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-11-21 `schema notes`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-11-23 `kernel wiring try`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
