@@ -36,3 +36,5 @@
 - 2024-11-28 `save notebook state`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-11-30 `logs panel work`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-12-07 `venv bootstrap`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
