@@ -42,3 +42,5 @@
 - 2024-12-08 `example cleanup`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-12-12 `more ml prompts`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-12-14 `project folders start`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
