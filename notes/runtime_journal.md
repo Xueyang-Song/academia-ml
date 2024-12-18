@@ -46,3 +46,5 @@
 - 2024-12-14 `project folders start`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-12-15 `dataset preview pass`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-12-17 `schema notes`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
