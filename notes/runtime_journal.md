@@ -50,3 +50,5 @@
 - 2024-12-17 `schema notes`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
 
 - 2024-12-19 `kernel wiring try`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
+
+- 2024-12-22 `save notebook state`: checked project folder persistence, notebook files, schema preview, and kernel wiring.
