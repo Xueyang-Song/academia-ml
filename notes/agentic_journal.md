@@ -14,3 +14,5 @@
 - 2025-01-07 `agent spike`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-01-09 `tool loop sketch`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-01-10 `agent spike`: moved more work into visible agent steps with approvals and local tools.
