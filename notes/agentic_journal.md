@@ -16,3 +16,5 @@
 - 2025-01-09 `tool loop sketch`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-01-10 `agent spike`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-01-11 `copilot idea notes`: moved more work into visible agent steps with approvals and local tools.
