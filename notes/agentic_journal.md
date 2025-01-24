@@ -28,3 +28,5 @@
 - 2025-01-20 `copilot idea notes`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-01-21 `copilot idea notes`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-01-23 `copilot idea notes`: moved more work into visible agent steps with approvals and local tools.
