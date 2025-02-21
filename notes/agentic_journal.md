@@ -58,3 +58,5 @@
 - 2025-02-18 `notebook agent pass`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-02-19 `project session link`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-02-20 `logs from tools`: moved more work into visible agent steps with approvals and local tools.
