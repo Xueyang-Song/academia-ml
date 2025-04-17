@@ -128,3 +128,5 @@
 - 2025-04-14 `run training tool`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-04-15 `notebook agent pass`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-04-16 `project session link`: moved more work into visible agent steps with approvals and local tools.
