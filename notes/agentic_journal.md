@@ -154,3 +154,5 @@
 - 2025-05-07 `agent queue start`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-05-08 `copilot adapter test`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-05-09 `tool call records`: moved more work into visible agent steps with approvals and local tools.
