@@ -158,3 +158,5 @@
 - 2025-05-09 `tool call records`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-05-10 `approval steps`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-05-12 `write script tool`: moved more work into visible agent steps with approvals and local tools.
