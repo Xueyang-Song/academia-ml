@@ -136,3 +136,5 @@
 - 2025-09-18 `write script tool`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-09-19 `run training tool`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-09-22 `notebook agent pass`: moved more work into visible agent steps with approvals and local tools.
