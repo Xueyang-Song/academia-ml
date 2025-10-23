@@ -170,3 +170,5 @@
 - 2025-10-16 `approval steps`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-10-20 `write script tool`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-10-22 `run training tool`: moved more work into visible agent steps with approvals and local tools.
