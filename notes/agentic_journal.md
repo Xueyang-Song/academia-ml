@@ -214,3 +214,5 @@
 - 2025-11-21 `project session link`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-11-22 `logs from tools`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-11-25 `agent queue start`: moved more work into visible agent steps with approvals and local tools.
