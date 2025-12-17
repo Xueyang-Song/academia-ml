@@ -4,3 +4,5 @@
 - Copilot is the fast lane; advisor chat is the fallback lane.
 
 - 2025-12-15 `agent queue start`: moved more work into visible agent steps with approvals and local tools.
+
+- 2025-12-16 `copilot adapter test`: moved more work into visible agent steps with approvals and local tools.
