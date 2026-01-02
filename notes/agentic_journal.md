@@ -22,3 +22,5 @@
 - 2025-12-30 `logs from tools`: moved more work into visible agent steps with approvals and local tools.
 
 - 2025-12-31 `agent queue start`: moved more work into visible agent steps with approvals and local tools.
+
+- 2026-01-01 `copilot adapter test`: moved more work into visible agent steps with approvals and local tools.
