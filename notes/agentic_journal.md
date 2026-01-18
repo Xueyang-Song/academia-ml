@@ -38,3 +38,5 @@
 - 2026-01-10 `project session link`: moved more work into visible agent steps with approvals and local tools.
 
 - 2026-01-12 `logs from tools`: moved more work into visible agent steps with approvals and local tools.
+
+- 2026-01-17 `agent queue start`: moved more work into visible agent steps with approvals and local tools.
