@@ -60,3 +60,5 @@
 - 2026-01-31 `agent queue start`: moved more work into visible agent steps with approvals and local tools.
 
 - 2026-02-02 `copilot adapter test`: moved more work into visible agent steps with approvals and local tools.
+
+- 2026-02-05 `tool call records`: moved more work into visible agent steps with approvals and local tools.
