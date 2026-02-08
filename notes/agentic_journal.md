@@ -64,3 +64,5 @@
 - 2026-02-05 `tool call records`: moved more work into visible agent steps with approvals and local tools.
 
 - 2026-02-06 `approval steps`: moved more work into visible agent steps with approvals and local tools.
+
+- 2026-02-07 `write script tool`: moved more work into visible agent steps with approvals and local tools.
