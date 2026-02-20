@@ -80,3 +80,5 @@
 - 2026-02-16 `copilot adapter test`: moved more work into visible agent steps with approvals and local tools.
 
 - 2026-02-17 `tool call records`: moved more work into visible agent steps with approvals and local tools.
+
+- 2026-02-19 `approval steps`: moved more work into visible agent steps with approvals and local tools.
