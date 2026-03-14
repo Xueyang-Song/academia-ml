@@ -18,3 +18,5 @@
 - 2026-03-11 `notebook arrows fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-03-12 `packaging fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+- 2026-03-13 `docs and examples`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
