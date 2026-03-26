@@ -30,3 +30,5 @@
 - 2026-03-19 `dark mode pass`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-03-24 `monaco fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+- 2026-03-25 `notebook arrows fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
