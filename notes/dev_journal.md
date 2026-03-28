@@ -32,3 +32,5 @@
 - 2026-03-24 `monaco fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-03-25 `notebook arrows fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+- 2026-03-27 `packaging fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
