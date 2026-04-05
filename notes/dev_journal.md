@@ -40,3 +40,5 @@
 - 2026-03-30 `runtime cleanup`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-04-01 `final app pass`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+- 2026-04-04 `workspace polish`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
