@@ -46,3 +46,5 @@
 - 2026-04-07 `dark mode pass`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-04-09 `workspace polish`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+- 2026-04-10 `dark mode pass`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
