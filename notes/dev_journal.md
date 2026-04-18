@@ -58,3 +58,5 @@
 - 2026-04-15 `final app pass`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-04-16 `docs and examples`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+- 2026-04-17 `runtime cleanup`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
