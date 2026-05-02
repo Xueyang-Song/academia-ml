@@ -72,3 +72,5 @@
 - 2026-04-25 `monaco fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-04-27 `monaco fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+- 2026-05-01 `workspace polish`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
