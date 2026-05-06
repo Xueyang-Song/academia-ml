@@ -80,3 +80,5 @@
 - 2026-05-04 `dark mode pass`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-05-04 `runtime cleanup`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+- 2026-05-05 `docs and examples`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
