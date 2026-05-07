@@ -84,3 +84,7 @@
 - 2026-05-05 `docs and examples`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
 
 - 2026-05-06 `packaging fix`: tightened the research IDE feel, theme details, packaging, and notebook reliability.
+
+## May 2026 freeze
+
+The app is now notebook-first, desktop-shaped, and close to the lost AcademiaML workflow: project files, real notebooks, local runtime, advisor chat, Copilot-oriented agent sessions, dark mode, and Monaco-backed cells.
